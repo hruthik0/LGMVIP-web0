@@ -1,0 +1,43 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  
+  .red{
+    background: red;
+  }
+  
+  .tool{
+    background: #cdbef9;
+    font-weight: bolder;
+  }
+  
+  .eq{
+    background: #8868e8;
+    font-weight: bolder;
+  }
+  
+  .br{
+    background: #cdc6c6;
+  }
+  
+  
+  
